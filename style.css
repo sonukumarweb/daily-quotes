@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(29, 25, 25);
+    width: 100vw;
+    height: 20%;;
+}
+img{
+    height:40vh;
+    width:50vw;
+    margin-top: 5%;
+    margin-left: 25%;
+    border: 3px solid white;
+}
+#heading{
+    font-family: 'Libre Baskerville', serif;
+    color: aqua;
+    text-align: center;
+}
+#text{
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(18, 132, 94);
+    font-size: 15px;
+}
